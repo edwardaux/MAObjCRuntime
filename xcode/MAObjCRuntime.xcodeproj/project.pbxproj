@@ -328,6 +328,7 @@
 				GCC_PREFIX_HEADER = MAObjCRuntime_Prefix.pch;
 				INSTALL_PATH = /usr/local/bin;
 				PRODUCT_NAME = MAObjCRuntime;
+				SKIP_INSTALL = YES;
 			};
 			name = Debug;
 		};
@@ -341,6 +342,7 @@
 				GCC_PREFIX_HEADER = MAObjCRuntime_Prefix.pch;
 				INSTALL_PATH = /usr/local/bin;
 				PRODUCT_NAME = MAObjCRuntime;
+				SKIP_INSTALL = YES;
 			};
 			name = Release;
 		};
